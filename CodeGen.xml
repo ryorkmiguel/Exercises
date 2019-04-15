@@ -1,0 +1,21 @@
+<bootstrapgen>
+	<htmlpage name="test.html" title="Welcome">
+		<menubar>
+			<menuitem name="Home" target="#top"/>
+			<menudd name="Projects">
+				<menuitem name="Peach" target="peach.html"/>
+				<menuitem name="Resume" target="resume.html"/>
+			</menudd>
+		</menubar>
+		<grid>
+			<row>
+				<col-narrow>content</col-narrow>
+				<col-wide>content</col-wide>
+			</row>
+			<row>
+				<col-narrow>content</col-narrow>
+				<col-wide>content</col-wide>
+			</row>
+		</grid>
+	</htmlpage>
+</bootstrapgen>
